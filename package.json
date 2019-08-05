@@ -19,7 +19,10 @@
   "homepage": "https://github.com/miju-park/nuber-server#readme",
   "dependencies": {
     "@types/node": "^11.13.2",
+    "graphql-middleware": "^3.0.3",
+    "graphql-tools": "^4.0.5",
     "graphql-yoga": "^1.18.1",
+    "merge-graphql-schemas": "^1.7.0",
     "nodemon": "^1.18.11",
     "ts-node": "^8.0.3",
     "tslint-config-prettier": "^1.18.0",
