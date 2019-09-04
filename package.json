@@ -21,6 +21,7 @@
   "homepage": "https://github.com/miju-park/nuber-server#readme",
   "dependencies": {
     "@types/node": "^11.13.2",
+    "dotenv": "^8.1.0",
     "graphql-middleware": "^3.0.3",
     "graphql-tools": "^4.0.5",
     "graphql-yoga": "^1.18.1",
